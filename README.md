@@ -69,6 +69,7 @@
   - [`API 요청 시 데이터가 존재하지 않는 경우 응답?`](https://github.com/JuHyun419/TIL-TodayILearned/issues/108)
   - [`Error creating bean with name ~ 오류`](https://github.com/JuHyun419/TIL-TodayILearned/issues/109)
   - [`Spring 실전 가이드(김남윤님), CORS 적용, JPA Entity 기본 생성자(PROTECTED)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/113)
+  - [`@RequestBody, @ModelAttribute`](https://github.com/JuHyun419/TIL-TodayILearned/issues/114)
 
 <br>
 
