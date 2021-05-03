@@ -43,6 +43,7 @@
   - [`popup, opener`](https://github.com/JuHyun419/TIL-TodayILearned/issues/41)
   - [`String -> 2D Array, SheetJS`](https://github.com/JuHyun419/TIL-TodayILearned/issues/71)
   - [`Strict Mode("use strict")`](https://github.com/JuHyun419/TIL-TodayILearned/issues/79)
+  - [`jqGrid 🤬`](https://github.com/JuHyun419/TIL-TodayILearned/issues/115)
 
 <br>
 
