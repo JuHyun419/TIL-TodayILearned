@@ -71,6 +71,7 @@
   - [`Error creating bean with name ~ 오류`](https://github.com/JuHyun419/TIL-TodayILearned/issues/109)
   - [`Spring 실전 가이드(김남윤님), CORS 적용, JPA Entity 기본 생성자(PROTECTED)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/113)
   - [`@RequestBody, @ModelAttribute`](https://github.com/JuHyun419/TIL-TodayILearned/issues/114)
+  - [`로깅 프레임워크 - logback`](https://github.com/JuHyun419/TIL-TodayILearned/issues/118)
 
 <br>
 
@@ -101,6 +102,8 @@
 
 ### IDE
   - [`IntelliJ 한글 입력 안될때`](https://github.com/JuHyun419/TIL-TodayILearned/issues/110)
+  - [`IntelliJ 유용한 플러그인 & 초기 설정`](https://github.com/JuHyun419/TIL-TodayILearned/issues/117)
+
 <br>
 
 ### Infra
