@@ -73,6 +73,7 @@
   - [`Spring 실전 가이드(김남윤님), CORS 적용, JPA Entity 기본 생성자(PROTECTED)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/113)
   - [`@RequestBody, @ModelAttribute`](https://github.com/JuHyun419/TIL-TodayILearned/issues/114)
   - [`로깅 프레임워크 - logback`](https://github.com/JuHyun419/TIL-TodayILearned/issues/118)
+  - [`@ParameterizedTest, @ValueSource, logback 여러 파일로 분리`](https://github.com/JuHyun419/TIL-TodayILearned/issues/122)
 
 <br>
 
