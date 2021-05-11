@@ -74,6 +74,7 @@
   - [`@RequestBody, @ModelAttribute`](https://github.com/JuHyun419/TIL-TodayILearned/issues/114)
   - [`로깅 프레임워크 - logback`](https://github.com/JuHyun419/TIL-TodayILearned/issues/118)
   - [`@ParameterizedTest, @ValueSource, logback 여러 파일로 분리`](https://github.com/JuHyun419/TIL-TodayILearned/issues/122)
+  - [`(테스트 코드)@ParameterizedTest, @ValueSource, @CsvSource`](https://github.com/JuHyun419/TIL-TodayILearned/issues/123)
 
 <br>
 
