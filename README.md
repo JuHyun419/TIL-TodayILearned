@@ -119,6 +119,7 @@
   - [`AWS EC2 인스턴스 생성 및 설정`](https://github.com/JuHyun419/TIL-TodayILearned/issues/102)
   - [`가비아 도메인 등록`](https://github.com/JuHyun419/TIL-TodayILearned/issues/111)
   - [`AWS 80 -> 8080 포트포워딩(iptables)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/112)
+  - [`맥OS에서 AWS EC2 접속하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/124)
 
 <br>
 
