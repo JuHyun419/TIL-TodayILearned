@@ -120,6 +120,7 @@
   - [`가비아 도메인 등록`](https://github.com/JuHyun419/TIL-TodayILearned/issues/111)
   - [`AWS 80 -> 8080 포트포워딩(iptables)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/112)
   - [`맥OS에서 AWS EC2 접속하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/124)
+  - [`GitHub Action을 통해 AWS에 배포(빌드)하기1`](https://github.com/JuHyun419/TIL-TodayILearned/issues/125)
 
 <br>
 
