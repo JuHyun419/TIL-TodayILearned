@@ -37,7 +37,9 @@
   - [`String 배열의 각 요소들이 특정 문자열에서 없는 문자 제거하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/99)
   - [`jps, jmap(ps -ef | grep java)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/121)
 
+
 <br>
+
 
 ### JavaScript
   - [`jQuery toggle(), keydown`](https://github.com/JuHyun419/TIL-TodayILearned/issues/24)
@@ -78,7 +80,9 @@
   - [`MyBatis Cache 설정`](https://github.com/JuHyun419/TIL-TodayILearned/issues/129)
   - [`CSRF`](https://github.com/JuHyun419/TIL-TodayILearned/issues/134)
 
+
 <br>
+
 
 ### Database
   - [`MySQL Boolean Type`](https://github.com/JuHyun419/TIL-TodayILearned/issues/20)
@@ -91,25 +95,35 @@
   - [`MySQL IN, EXISTS`](https://github.com/JuHyun419/TIL-TodayILearned/issues/90)
   - [`MySQL charset 설정이 다른 두 컬럼 조인`](https://github.com/JuHyun419/TIL-TodayILearned/issues/96)
 
+
 <br>
+
 
 ### Git/GitHub
   - [`GitHub 리모트, 로컬 레포지토리 싱크 맞추기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/29)
   - [`Git 충돌`](https://github.com/JuHyun419/TIL-TodayILearned/issues/102)
 
+
 <br>
+
 
 ### Web
   - [`TCP 3-way Handshake`](https://github.com/JuHyun419/TIL-TodayILearned/issues/10)
   - [`iframe`](https://github.com/JuHyun419/TIL-TodayILearned/issues/44)
   - [`HTTP DELETE Body`](https://github.com/JuHyun419/TIL-TodayILearned/issues/106)
+  - [`HTTP 조건부 요청`](https://github.com/JuHyun419/TIL-TodayILearned/issues/136)
+
+
 <br>
+
 
 ### IDE
   - [`IntelliJ 한글 입력 안될때`](https://github.com/JuHyun419/TIL-TodayILearned/issues/110)
   - [`IntelliJ 유용한 플러그인 & 초기 설정`](https://github.com/JuHyun419/TIL-TodayILearned/issues/117)
 
+
 <br>
+
 
 ### Infra
   - [`Apache Kafka`](https://github.com/JuHyun419/TIL-TodayILearned/issues/33)
@@ -124,7 +138,9 @@
   - [`맥OS에서 AWS EC2 접속하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/124)
   - [`GitHub Action을 통해 AWS에 배포(빌드)하기1`](https://github.com/JuHyun419/TIL-TodayILearned/issues/125)
 
+
 <br>
+
 
 ### Linux
   - [`Bind Exception(허가 거부), 리눅스 파일 권한(chmod)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/14)
@@ -137,4 +153,6 @@
   - [`파일 삭제(rm), 용량확인(du)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/68)
   - [`Linux Timezone 변경`](https://github.com/JuHyun419/TIL-TodayILearned/issues/73)
 
+
 <br>
+
