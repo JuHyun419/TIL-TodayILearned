@@ -103,6 +103,7 @@
 ### Git/GitHub
   - [`GitHub 리모트, 로컬 레포지토리 싱크 맞추기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/29)
   - [`Git 충돌`](https://github.com/JuHyun419/TIL-TodayILearned/issues/102)
+  - [`젠허브(ZenHub)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/139)
 
 
 <br>
