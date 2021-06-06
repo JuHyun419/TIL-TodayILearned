@@ -80,6 +80,7 @@
   - [`MyBatis Cache 설정`](https://github.com/JuHyun419/TIL-TodayILearned/issues/129)
   - [`CSRF`](https://github.com/JuHyun419/TIL-TodayILearned/issues/134)
   - [`@MethodSource`](https://github.com/JuHyun419/TIL-TodayILearned/issues/137)
+  - [`Mockito`](https://github.com/JuHyun419/TIL-TodayILearned/issues/140)
 
 
 <br>
