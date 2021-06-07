@@ -36,7 +36,7 @@
   - [`int array to String array, 매직넘버`](https://github.com/JuHyun419/TIL-TodayILearned/issues/87)
   - [`String 배열의 각 요소들이 특정 문자열에서 없는 문자 제거하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/99)
   - [`jps, jmap(ps -ef | grep java)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/121)
-
+  - [`JUnit - assertThatThrownBy(), @ParameterizedTest, @ValueSource, @CsvSource example`](https://github.com/JuHyun419/TIL-TodayILearned/issues/141)
 
 <br>
 
