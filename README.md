@@ -81,6 +81,7 @@
   - [`CSRF`](https://github.com/JuHyun419/TIL-TodayILearned/issues/134)
   - [`@MethodSource`](https://github.com/JuHyun419/TIL-TodayILearned/issues/137)
   - [`Mockito`](https://github.com/JuHyun419/TIL-TodayILearned/issues/140)
+  - [`gradle 프로젝트 의존성 확인하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/145)
 
 
 <br>
