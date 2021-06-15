@@ -126,6 +126,7 @@
   - [`IntelliJ 한글 입력 안될때`](https://github.com/JuHyun419/TIL-TodayILearned/issues/110)
   - [`IntelliJ 유용한 플러그인 & 초기 설정`](https://github.com/JuHyun419/TIL-TodayILearned/issues/117)
   - [`IntelliJ Live Template`](https://github.com/JuHyun419/TIL-TodayILearned/issues/146)
+  - [`gitignore.io 파일 자동 생성 사이트`](https://github.com/JuHyun419/TIL-TodayILearned/issues/149)
 
 <br>
 
