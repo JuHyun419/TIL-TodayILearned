@@ -38,6 +38,7 @@
   - [`jps, jmap(ps -ef | grep java)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/121)
   - [`JUnit - assertThatThrownBy(), @ParameterizedTest, @ValueSource, @CsvSource example`](https://github.com/JuHyun419/TIL-TodayILearned/issues/141)
   - [`Java System.arraycopy`](https://github.com/JuHyun419/TIL-TodayILearned/issues/150)
+  - [`Java11 String.repeat()`](https://github.com/JuHyun419/TIL-TodayILearned/issues/151)
 
 <br>
 
