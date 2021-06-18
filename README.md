@@ -85,7 +85,8 @@
   - [`Mockito`](https://github.com/JuHyun419/TIL-TodayILearned/issues/140)
   - [`gradle 프로젝트 의존성 확인하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/145)
   - [`JPA @MappedSuperclass(BaseEntity)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/147)
-  - [`JPA 즉시 로딩(Eager Loading) & 지연 로딩(Lazy Loading)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/151)
+  - [`JPA 즉시 로딩(Eager Loading) & 지연 로딩(Lazy Loading)`](https://zzang9ha.tistory.com/347)
+  - [`Spring Boot Maven profile(개발 & 운영 분리) - prod, dev`](https://zzang9ha.tistory.com/348)
 
 
 <br>
