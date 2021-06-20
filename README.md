@@ -39,6 +39,7 @@
   - [`JUnit - assertThatThrownBy(), @ParameterizedTest, @ValueSource, @CsvSource example`](https://github.com/JuHyun419/TIL-TodayILearned/issues/141)
   - [`Java System.arraycopy`](https://github.com/JuHyun419/TIL-TodayILearned/issues/150)
   - [`Java11 String.repeat()`](https://github.com/JuHyun419/TIL-TodayILearned/issues/151)
+  - [`Collections - shuffle() 리스트 섞기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/153)
 
 <br>
 
