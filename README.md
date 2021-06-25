@@ -91,6 +91,7 @@
   - [`Spring Boot Maven profile(개발 & 운영 분리) - prod, dev`](https://zzang9ha.tistory.com/348)
   - [`JPA 영속성 전이(CASCADE)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/154)
   - [`JPQL @Query, countQuery`](https://github.com/JuHyun419/TIL-TodayILearned/issues/157)
+  - [`JPA - @EntityGraph`](https://github.com/JuHyun419/TIL-TodayILearned/issues/158)
 
 
 <br>
