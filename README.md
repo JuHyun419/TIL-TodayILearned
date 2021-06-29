@@ -127,7 +127,7 @@
   - [`HTTP DELETE Body`](https://github.com/JuHyun419/TIL-TodayILearned/issues/106)
   - [`HTTP 조건부 요청`](https://github.com/JuHyun419/TIL-TodayILearned/issues/136)
   - [`SRI(Subresource Integrity)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/161)
-
+  - [`TCP 3-way Handshake, 4-way Handshake`](https://github.com/JuHyun419/study/blob/master/computer-science/TCP-%EC%97%B0%EA%B2%B0%EC%84%A4%EC%A0%95%26%ED%95%B4%EC%A0%9C.md)
 
 <br>
 
