@@ -140,6 +140,7 @@
   - [`IntelliJ Live Template`](https://github.com/JuHyun419/TIL-TodayILearned/issues/146)
   - [`gitignore.io 파일 자동 생성 사이트`](https://github.com/JuHyun419/TIL-TodayILearned/issues/149)
   - [`IntelliJ 두 파일 비교하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/151)
+  - [`IntelliJ Gradle ~ cannot be applied to '(groovy.lang.Closure') 해결`](https://github.com/JuHyun419/TIL-TodayILearned/issues/168)
 
 <br>
 
