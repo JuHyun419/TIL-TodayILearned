@@ -94,7 +94,8 @@
   - [`JPA 영속성 전이(CASCADE)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/154)
   - [`JPQL @Query, countQuery`](https://github.com/JuHyun419/TIL-TodayILearned/issues/157)
   - [`JPA - @EntityGraph`](https://github.com/JuHyun419/TIL-TodayILearned/issues/158)
-  - [`Querydsl`](https://github.com/JuHyun419/TIL-TodayILearned/issues/163) 
+  - [`Querydsl`](https://github.com/JuHyun419/TIL-TodayILearned/issues/163)
+  - [Spring Security @EnableGlobalMethodSecurity vs @EnableWebSecurity](https://github.com/JuHyun419/TIL-TodayILearned/issues/170)
 
 
 <br>
