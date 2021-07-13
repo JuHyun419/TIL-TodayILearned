@@ -42,6 +42,7 @@
   - [`Collections - shuffle() 리스트 섞기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/153)
   - [`(알고리즘) Queue 대신 LinkedList로 선언하자`](https://github.com/JuHyun419/TIL-TodayILearned/issues/157)
   - [`javac flag -parameters`](https://github.com/JuHyun419/TIL-TodayILearned/issues/168)
+  - [`특정 문자열에 존재하는 다른 문자열 갯수 찾기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/175)
 
 <br>
 
