@@ -43,6 +43,7 @@
   - [`(알고리즘) Queue 대신 LinkedList로 선언하자`](https://github.com/JuHyun419/TIL-TodayILearned/issues/157)
   - [`javac flag -parameters`](https://github.com/JuHyun419/TIL-TodayILearned/issues/168)
   - [`특정 문자열에 존재하는 다른 문자열 갯수 찾기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/175)
+  - [`Java 비동기처리`](https://github.com/JuHyun419/TIL-TodayILearned/issues/178)
 
 <br>
 
@@ -123,6 +124,7 @@
   - [`GitHub 리모트, 로컬 레포지토리 싱크 맞추기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/29)
   - [`Git 충돌`](https://github.com/JuHyun419/TIL-TodayILearned/issues/102)
   - [`젠허브(ZenHub)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/139)
+  - [`GitHub에 잘못 올라간 파일 제거(gitignore)`](https://zzang9ha.tistory.com/359)
 
 
 <br>
