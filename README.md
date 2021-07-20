@@ -99,6 +99,7 @@
   - [`Querydsl`](https://github.com/JuHyun419/TIL-TodayILearned/issues/163)
   - [`Spring Security @EnableGlobalMethodSecurity vs @EnableWebSecurity, @PreAuthorize, @PostAuthorize`](https://github.com/JuHyun419/TIL-TodayILearned/issues/170)
   - [`Gradle 빌드할 때, test 스킵`](https://github.com/JuHyun419/TIL-TodayILearned/issues/173)
+  - [`Maven 빌드할 때 test 스킵`](https://github.com/JuHyun419/TIL-TodayILearned/issues/181)
 
 
 <br>
