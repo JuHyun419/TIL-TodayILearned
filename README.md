@@ -100,6 +100,7 @@
   - [`Spring Security @EnableGlobalMethodSecurity vs @EnableWebSecurity, @PreAuthorize, @PostAuthorize`](https://github.com/JuHyun419/TIL-TodayILearned/issues/170)
   - [`Gradle 빌드할 때, test 스킵`](https://github.com/JuHyun419/TIL-TodayILearned/issues/173)
   - [`Maven 빌드할 때 test 스킵`](https://github.com/JuHyun419/TIL-TodayILearned/issues/181)
+  - [`IntelliJ API 테스트, @Valid 유효성 검사 + 예외 핸들링`](https://github.com/JuHyun419/TIL-TodayILearned/issues/183)
 
 
 <br>
