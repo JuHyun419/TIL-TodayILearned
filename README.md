@@ -101,6 +101,7 @@
   - [`Gradle 빌드할 때, test 스킵`](https://github.com/JuHyun419/TIL-TodayILearned/issues/173)
   - [`Maven 빌드할 때 test 스킵`](https://github.com/JuHyun419/TIL-TodayILearned/issues/181)
   - [`IntelliJ API 테스트, @Valid 유효성 검사 + 예외 핸들링`](https://github.com/JuHyun419/TIL-TodayILearned/issues/183)
+  - [`Gradle 7+ 버전에서는 compile, runtime 대신 implementation, runtimeOnly를 사용`](https://github.com/JuHyun419/TIL-TodayILearned/issues/185)
 
 
 <br>
