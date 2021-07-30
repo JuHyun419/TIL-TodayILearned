@@ -111,6 +111,9 @@
   - [`LRU(페이지 교체 알고리즘)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/188)
 
 
+<br>
+
+
 ### Database
   - [`MySQL Boolean Type`](https://github.com/JuHyun419/TIL-TodayILearned/issues/20)
   - [`MySQL JDBC autoReconnect`](https://github.com/JuHyun419/TIL-TodayILearned/issues/29)
