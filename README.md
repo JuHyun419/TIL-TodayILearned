@@ -106,6 +106,10 @@
 
 <br>
 
+### CS
+  - [`TCP 3-way Handshake, 4-way Handshake`](https://github.com/JuHyun419/study/blob/master/computer-science/TCP-%EC%97%B0%EA%B2%B0%EC%84%A4%EC%A0%95%26%ED%95%B4%EC%A0%9C.md)
+  - [`LRU(페이지 교체 알고리즘)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/188)
+
 
 ### Database
   - [`MySQL Boolean Type`](https://github.com/JuHyun419/TIL-TodayILearned/issues/20)
@@ -138,8 +142,9 @@
   - [`HTTP DELETE Body`](https://github.com/JuHyun419/TIL-TodayILearned/issues/106)
   - [`HTTP 조건부 요청`](https://github.com/JuHyun419/TIL-TodayILearned/issues/136)
   - [`SRI(Subresource Integrity)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/161)
-  - [`TCP 3-way Handshake, 4-way Handshake`](https://github.com/JuHyun419/study/blob/master/computer-science/TCP-%EC%97%B0%EA%B2%B0%EC%84%A4%EC%A0%95%26%ED%95%B4%EC%A0%9C.md)
   - [`CSS Reset(초기화)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/186)
+  - [`HTML/CSS 연습`](https://github.com/JuHyun419/TIL-TodayILearned/issues/187)
+
 
 <br>
 
@@ -151,6 +156,7 @@
   - [`gitignore.io 파일 자동 생성 사이트`](https://github.com/JuHyun419/TIL-TodayILearned/issues/149)
   - [`IntelliJ 두 파일 비교하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/151)
   - [`IntelliJ Gradle ~ cannot be applied to '(groovy.lang.Closure') 해결`](https://github.com/JuHyun419/TIL-TodayILearned/issues/168)
+
 
 <br>
 
