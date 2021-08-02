@@ -195,6 +195,7 @@
   - [`catalina.out 톰캣 로그`](https://github.com/JuHyun419/TIL-TodayILearned/issues/56)
   - [`파일 삭제(rm), 용량확인(du)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/68)
   - [`Linux Timezone 변경`](https://github.com/JuHyun419/TIL-TodayILearned/issues/73)
+  - [`basename`](https://github.com/JuHyun419/TIL-TodayILearned/issues/190)
 
 
 <br>
