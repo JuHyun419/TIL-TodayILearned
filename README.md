@@ -108,6 +108,7 @@
   - [`Gradle 7+ 버전에서는 compile, runtime 대신 implementation, runtimeOnly를 사용`](https://github.com/JuHyun419/TIL-TodayILearned/issues/185)
   - [`SpringBoot + JWT`](https://github.com/JuHyun419/study/tree/master/springboot-jwt-tutorial)
   - [`Spring AOP - (1) 프록시 패턴, 데코레이터 패턴 정리`](https://zzang9ha.tistory.com/378)
+  - [`Spring @JsonProperty, @JsonNaming`](https://zzang9ha.tistory.com/380)
 
 
 <br>
