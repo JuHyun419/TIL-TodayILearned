@@ -50,6 +50,11 @@
 
 <br>
 
+### Kotlin
+  - [`Custom Valid @annotation`](https://github.com/JuHyun419/TIL-TodayILearned/issues/204)
+
+<br>
+
 
 ### JavaScript
   - [`jQuery toggle(), keydown`](https://github.com/JuHyun419/TIL-TodayILearned/issues/24)
