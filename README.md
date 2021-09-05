@@ -139,6 +139,7 @@
   - [`MySQL charset 설정이 다른 두 컬럼 조인`](https://github.com/JuHyun419/TIL-TodayILearned/issues/96)
   - [`사용자가 게시물을 작성할 때의 트랜잭션 처리`](https://zzang9ha.tistory.com/374)
   - [`DBCP`](https://github.com/JuHyun419/TIL-TodayILearned/issues/196)
+  - [`트랜잭션 격리수준`](https://zzang9ha.tistory.com/381)
 
 
 <br>
