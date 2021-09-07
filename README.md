@@ -52,6 +52,7 @@
 
 ### Kotlin
   - [`Custom Valid @annotation`](https://github.com/JuHyun419/TIL-TodayILearned/issues/204)
+  - [`Kotlin 배열 선언`](https://github.com/JuHyun419/TIL-TodayILearned/issues/207)
 
 <br>
 
