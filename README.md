@@ -116,6 +116,7 @@
   - [`SpringBoot + JWT`](https://github.com/JuHyun419/study/tree/master/springboot-jwt-tutorial)
   - [`Spring AOP - (1) 프록시 패턴, 데코레이터 패턴 정리`](https://zzang9ha.tistory.com/378)
   - [`Spring @JsonProperty, @JsonNaming`](https://zzang9ha.tistory.com/380)
+  - [`로깅: Log4j, Log4j2, Slf4j, Logback`](https://zzang9ha.tistory.com/387)
 
 
 <br>
@@ -166,8 +167,7 @@
   - [`CSS Reset(초기화)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/186)
   - [`HTML/CSS 연습`](https://github.com/JuHyun419/TIL-TodayILearned/issues/187)
   - [`오픈 그래프(Open Graph)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/192)
-
-
+  - [`22 Best Practices to Take Your API Design Skills to the Next Level`](https://zzang9ha.tistory.com/388)
 
 
 <br>
@@ -180,7 +180,7 @@
   - [`gitignore.io 파일 자동 생성 사이트`](https://github.com/JuHyun419/TIL-TodayILearned/issues/149)
   - [`IntelliJ 두 파일 비교하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/151)
   - [`IntelliJ Gradle ~ cannot be applied to '(groovy.lang.Closure') 해결`](https://github.com/JuHyun419/TIL-TodayILearned/issues/168)
-
+  - [`인텔리제이(IntelliJ) - VisualVM 설치 및 연동하기`](https://zzang9ha.tistory.com/386)
 
 <br>
 
