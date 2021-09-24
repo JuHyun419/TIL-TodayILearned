@@ -115,6 +115,7 @@
   - [`Gradle 7+ 버전에서는 compile, runtime 대신 implementation, runtimeOnly를 사용`](https://github.com/JuHyun419/TIL-TodayILearned/issues/185)
   - [`SpringBoot + JWT`](https://github.com/JuHyun419/study/tree/master/spring-example/spring-jwt-tutorial)
   - [`Spring AOP - (1) 프록시 패턴, 데코레이터 패턴 정리`](https://zzang9ha.tistory.com/378)
+  - [`Spring AOP - (2) AOP 개념 및 실습`](https://zzang9ha.tistory.com/389)
   - [`Spring @JsonProperty, @JsonNaming`](https://zzang9ha.tistory.com/380)
   - [`로깅: Log4j, Log4j2, Slf4j, Logback`](https://zzang9ha.tistory.com/387)
 
