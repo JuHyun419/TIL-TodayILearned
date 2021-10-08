@@ -48,6 +48,7 @@
   - [`Two Pointer(투 포인터)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/194)
   - [`Convert String month to Integer month`](https://github.com/JuHyun419/TIL-TodayILearned/issues/201)
   - [`Url Validation`](https://github.com/JuHyun419/TIL-TodayILearned/issues/210)
+  - [`jstat: GC 튜닝 옵션`](https://github.com/JuHyun419/TIL-TodayILearned/issues/217)
 
 <br>
 
