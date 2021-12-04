@@ -121,6 +121,7 @@
   - [`로깅: Log4j, Log4j2, Slf4j, Logback`](https://zzang9ha.tistory.com/387)
   - [`InitializingBean, Disposable`](https://github.com/JuHyun419/TIL-TodayILearned/issues/216)
   - [`JPA N+1`](https://github.com/JuHyun419/TIL-TodayILearned/issues/new)
+  - [`Spring Swagger 3.0 기본 UI의 URL 변경`](https://github.com/JuHyun419/TIL-TodayILearned/issues/233)
 
 
 <br>
