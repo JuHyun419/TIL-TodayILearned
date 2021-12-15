@@ -222,6 +222,7 @@
   - [`파일 삭제(rm), 용량확인(du)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/68)
   - [`Linux Timezone 변경`](https://github.com/JuHyun419/TIL-TodayILearned/issues/73)
   - [`basename`](https://github.com/JuHyun419/TIL-TodayILearned/issues/190)
+  - [`find 옵션`](https://github.com/JuHyun419/TIL-TodayILearned/issues/235)
 
 
 <br>
