@@ -223,7 +223,7 @@
   - [`Linux Timezone 변경`](https://github.com/JuHyun419/TIL-TodayILearned/issues/73)
   - [`basename`](https://github.com/JuHyun419/TIL-TodayILearned/issues/190)
   - [`find 옵션`](https://github.com/JuHyun419/TIL-TodayILearned/issues/235)
-
+  - [`Linux - du(Memory check)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/238)
 
 <br>
 
