@@ -10,15 +10,15 @@
 ### Table Of Content  
 - [Java](#Java)
 - [Kotlin](#Kotlin)
-- JavaScript
-- Spring
-- CS
-- Database
-- Git/GitHub
-- Web
-- IDE
-- Infra  
-- [리눅스 Linux](#Linux)
+- [JavaScript](#JavaScript)
+- [Spring](#Spring)
+- [CS](#CS)
+- [Database](#Database)
+- [Git/GitHub](#Git/Github)
+- [Web](#Web)
+- [IDE](#IDE)
+- [Infra](#Infra)
+- [Linux](#Linux)
 
 <br>
 
