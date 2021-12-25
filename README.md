@@ -1,9 +1,26 @@
-## TIL-Today I Learned
-## [`Issues`](https://github.com/JuHyun419/TIL-TodayILearned/issues)
+#  <p align="center">[🏃 TIL-Today I Learned](https://github.com/JuHyun419/TIL-TodayILearned/issues)</p>
+
+<p align="center">
+  <a href="https://github.com/JuHyun419/TIL-TodayILearned"><img src="https://img.shields.io/github/stars/JuHyun419/TIL-TodayILearned.svg?style=social" /></a>
+  <a href="https://github.com/JuHyun419/TIL-TodayILearned/contributors"><img src="https://img.shields.io/github/contributors/JuHyun419/TIL-TodayILearned.svg" />. </a>
+</p>
 
 <br>
 
-## Contents
+### Table Of Content  
+- [Java](#Java)
+- [Kotlin](#Kotlin)
+- JavaScript
+- Spring
+- CS
+- Database
+- Git/GitHub
+- Web
+- IDE
+- Infra  
+- [리눅스 Linux](#Linux)
+
+<br>
 
 ### Java
   - [`객체 설계, toString 오버라이드`](https://github.com/JuHyun419/TIL-TodayILearned/issues/11)
