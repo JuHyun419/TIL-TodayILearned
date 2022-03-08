@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/JuHyun419/TIL-TodayILearned"><img src="https://img.shields.io/github/stars/JuHyun419/TIL-TodayILearned.svg?style=social" /></a>
-  <a href="https://github.com/JuHyun419/TIL-TodayILearned/contributors"><img src="https://img.shields.io/github/contributors/JuHyun419/TIL-TodayILearned.svg" />. </a>
+  <a href="https://github.com/JuHyun419/TIL-TodayILearned/contributors"><img src="https://img.shields.io/github/contributors/JuHyun419/TIL-TodayILearned.svg" /> </a>
 </p>
 
 <br>
