@@ -226,6 +226,7 @@
   - [`GitHub Action을 통해 AWS에 배포(빌드)하기1`](https://github.com/JuHyun419/TIL-TodayILearned/issues/125)
   - [`AWS S3 버킷 생성`](https://github.com/JuHyun419/TIL-TodayILearned/issues/171)
   - [`Spring Boot + docker 배포(MacOS M1)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/180)
+  - [`AWS EC2에 Docker, Docker-Compose 설치하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/255)
 
 
 <br>
