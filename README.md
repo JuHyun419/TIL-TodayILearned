@@ -170,6 +170,7 @@
   - [`트랜잭션 격리수준`](https://zzang9ha.tistory.com/381)
   - [`PostgreSQL 기초 쿼리`](https://github.com/JuHyun419/TIL-TodayILearned/issues/231)
   - [`Oracle 실행계획`](https://github.com/JuHyun419/TIL-TodayILearned/issues/250)
+  - [`데이터베이스 임시 테이블 용도`](https://github.com/JuHyun419/TIL-TodayILearned/issues/260)
 
 
 <br>
