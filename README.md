@@ -143,6 +143,7 @@
   - [`Spring Swagger 3.0 기본 UI의 URL 변경, Swagger Basic Error Controller 제거`](https://github.com/JuHyun419/TIL-TodayILearned/issues/233)
   - [`Hibernate and data.sql lazy working`](https://github.com/JuHyun419/TIL-TodayILearned/issues/241)
   - [`FactoryBean으로 Spring Bean 등록하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/263)
+  - [`Spring @PostConstructor, @PreDestory`](https://github.com/JuHyun419/TIL-TodayILearned/issues/265)
 
 <br>
 
