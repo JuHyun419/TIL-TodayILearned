@@ -197,6 +197,7 @@
   - [`HTML/CSS 연습`](https://github.com/JuHyun419/TIL-TodayILearned/issues/187)
   - [`오픈 그래프(Open Graph)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/192)
   - [`22 Best Practices to Take Your API Design Skills to the Next Level`](https://zzang9ha.tistory.com/388)
+  - [`Apache httpd-vhosts.conf 설정`](https://github.com/JuHyun419/TIL-TodayILearned/issues/266)
 
 
 <br>
