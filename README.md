@@ -172,6 +172,7 @@
   - [`PostgreSQL 기초 쿼리`](https://github.com/JuHyun419/TIL-TodayILearned/issues/231)
   - [`Oracle 실행계획`](https://github.com/JuHyun419/TIL-TodayILearned/issues/250)
   - [`데이터베이스 임시 테이블 용도`](https://github.com/JuHyun419/TIL-TodayILearned/issues/260)
+  - [`MySQL Recursive Insert(Dummy Data)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/270)
 
 
 <br>
