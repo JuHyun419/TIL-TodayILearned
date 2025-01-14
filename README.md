@@ -19,6 +19,7 @@
 - [IDE](#IDE)
 - [Infra](#Infra)
 - [Linux](#Linux)
+- [Elasticsearch](#Elasticsearch)
 
 <br>
 
@@ -256,3 +257,5 @@
 
 <br>
 
+### Elasticsearch
+- [Track total hits](https://github.com/JuHyun419/TIL-TodayILearned/issues/279)
