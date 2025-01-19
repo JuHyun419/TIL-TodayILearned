@@ -75,6 +75,7 @@
   - [`Kotlin 배열 선언`](https://github.com/JuHyun419/TIL-TodayILearned/issues/207)
   - [`@Valid 예외 테스트`](https://github.com/JuHyun419/TIL-TodayILearned/issues/208)
   - [`Password Validation Regex`](https://github.com/JuHyun419/TIL-TodayILearned/issues/259)
+  - [`Kotlin destructuring(구조 분해)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/280)
 <br>
 
 
