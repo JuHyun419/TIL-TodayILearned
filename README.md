@@ -147,6 +147,7 @@
   - [`FactoryBean으로 Spring Bean 등록하기`](https://github.com/JuHyun419/TIL-TodayILearned/issues/263)
   - [`Spring @PostConstructor, @PreDestory`](https://github.com/JuHyun419/TIL-TodayILearned/issues/265)
   - [`Gradle Version Catalog`](https://github.com/JuHyun419/TIL-TodayILearned/issues/277)
+  - [`java-text-fixture plugins`](https://github.com/JuHyun419/TIL-TodayILearned/issues/281)
 
 <br>
 
