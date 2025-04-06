@@ -218,6 +218,7 @@
   - [`IntelliJ Gradle ~ cannot be applied to '(groovy.lang.Closure') 해결`](https://github.com/JuHyun419/TIL-TodayILearned/issues/168)
   - [`인텔리제이(IntelliJ) - VisualVM 설치 및 연동하기`](https://zzang9ha.tistory.com/386)
   - [`IntelliJ 폴더 테마 아이콘 변경`](https://github.com/JuHyun419/TIL-TodayILearned/issues/219)
+  - [`Kover - Kotlin Coverage Tool`](https://github.com/JuHyun419/TIL-TodayILearned/issues/282)
 
 <br>
 
