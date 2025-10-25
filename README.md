@@ -179,6 +179,7 @@
   - [`MySQL Recursive Insert(Dummy Data)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/270)
   - [`WAL(Write-Ahead Log)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/272)
   - [`MySQL Explain (TRADITIONAL, TREE, JSON, ANALYZE)`](https://github.com/JuHyun419/TIL-TodayILearned/issues/276)
+  - [`This One SQL Clause Made My Query 10x Faster`](https://medium.com/ai-analytics-diaries/this-one-sql-clause-made-my-query-10x-faster-a8e75ed717ea)
 
 <br>
 
